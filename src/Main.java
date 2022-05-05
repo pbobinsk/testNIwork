@@ -4,7 +4,6 @@ public class Main {
         System.out.println("Hello WSB");
 
         Klasa1 klasa1 = new Klasa1("test");
-
         System.out.println(klasa1);
 
         Klasa2 klasa2 = new Klasa2();
