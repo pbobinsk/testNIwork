@@ -6,5 +6,9 @@ public class Main {
         Klasa1 klasa1 = new Klasa1();
 
         System.out.println(klasa1);
+
+        Klasa2 klasa2 = new Klasa2();
+
+        System.out.println(klasa2);
     }
 }
