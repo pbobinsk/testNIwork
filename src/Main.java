@@ -9,5 +9,7 @@ public class Main {
         Klasa2 klasa2 = new Klasa2();
 
         System.out.println(klasa2);
+
+        System.out.println("Kolejna zmiana");
     }
 }
