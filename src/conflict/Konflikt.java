@@ -12,10 +12,6 @@ public class Konflikt {
 
     @Override
     public String toString() {
-        return "Konflikt{" +
-
-                "string1='" + string1 + '\'' +
-
-                '}';
+        return "Konflikt";
     }
 }
