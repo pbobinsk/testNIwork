@@ -1,27 +1,27 @@
 public class KlasaMerge {
 
-    private double s1;
+    private double d1;
 
 
-    private String s2;
+    private double d2;
 
-    public KlasaMerge(double s1) {
+    public KlasaMerge(double d11) {
 
-        this.s1 = s1;
+        this.d1 = d1;
 
     }
 
-    public KlasaMerge(double s1, String s2) {
-        this.s1 = s1;
-        this.s2 = s2;
+    public KlasaMerge(double d1, double d2) {
+        this.d1 = d1;
+        this.d2 = d2;
     }
 
     @Override
     public String toString() {
         return "KlasaMerge{" +
 
-                "s1=" + s1 +
-                ", d2=" + s2 +
+                "s1=" + d1 +
+                ", d2=" + d2 +
 
                 '}';
     }
