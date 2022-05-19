@@ -21,7 +21,7 @@ public class KlasaMerge {
         return "KlasaMerge{" +
 
                 "s1=" + s1 +
-                ", d2=" + d2 +
+                ", d2=" + s2 +
 
                 '}';
     }
