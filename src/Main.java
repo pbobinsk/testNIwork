@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("Kolejna zmiana");
 
-        KlasaMerge klasaMerge = new KlasaMerge("1");
+        KlasaMerge klasaMerge = new KlasaMerge(1);
         System.out.println(klasaMerge);
     }
 }
